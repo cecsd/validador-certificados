@@ -100,7 +100,7 @@
     const certInfo = document.getElementById("cert-info");
 
     if (hash) {
-      fetch("certificados_reestructurados.json")
+      fetch('certificadosIADocencia.json')
         .then(response => {
           if (!response.ok) throw new Error("Archivo no encontrado");
           return response.json();
