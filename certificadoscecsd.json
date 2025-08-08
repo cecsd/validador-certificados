@@ -108,5 +108,29 @@
         "inicio": "16/06/2025",
         "fin": "18/07/2025",
         "emision": "05/08/2025"
+    },
+    "189ca1adb935a133154956e2c8e9645b7f7aa24fd84e8eef2a89e146d49faec78e43c57a9fe45fc344d7e09200715aa0f1ab96231a82a3fc98736e4d485b1c14": {
+        "nombre": "Ing. Diego Ricardo Salazar Armijos. Ph.D",
+        "cedula": "1710481027",
+        "correo": "drsalazar@espe.edu.ec",
+        "celular": "993365450",
+        "curso": "Inteligencia Artificial Aplicada a la Docencia",
+        "aprobacion": "Instructor",
+        "horas": "60",
+        "inicio": "16/06/2025",
+        "fin": "18/07/2025",
+        "emision": "05/08/2025"
+    },
+    "928936a4bbdd42357526b456a43b1850012c720c1b80eee48fd810d64f0eab81bc45ddee5d1469b1162ad02358248dd5edab69b5b1011140467c58c628a6499c": {
+        "nombre": "Ing. Luis Armando Ortiz Delgado. Mgtr",
+        "cedula": "1311722191",
+        "correo": "laortiz9@espe.edu.ec",
+        "celular": "995943796",
+        "curso": "Inteligencia Artificial Aplicada a la Docencia",
+        "aprobacion": "Instructor",
+        "horas": "60",
+        "inicio": "16/06/2025",
+        "fin": "18/07/2025",
+        "emision": "05/08/2025"
     }
 }
