@@ -191,7 +191,7 @@
     },
     "6ffd4ed8da7ca2649fd28a7abf2e4ea5cb2bc1e7d58efe6084f13beff1b1dbd96b8f22bb3c79d6f2ed3697665675662f006fa12dbf91b21ee47485245bbe4b8b": {
         "nombre": "Manzaba Moreira Marilyn Marilexy",
-        "cedula": "850396219",
+        "cedula": "0850396219",
         "correo": "marilynmazamba0@gmail.com",
         "celular": "988591856",
         "curso": "Precálculo",
@@ -218,6 +218,18 @@
         "cedula": "2350900987",
         "correo": "rijimenez@espe.edu.ec",
         "celular": "987258184",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "11/11/2025"
+    },
+    "c18c95548a6236f8c2d678d87b79febd0c066a1702820e4eb4de4460c04c414312d37666557aa9a238a98774bb38ed747e8f55db443d2fab23a45b95620c77de": {
+        "nombre": "Vera Alvear Genesis Cristina ",
+        "cedula": "2350526907",
+        "correo": "gcvera1@espe.edu.ec",
+        "celular": "989021479",
         "curso": "Precálculo",
         "aprobacion": "Aprobado",
         "horas": "35",
