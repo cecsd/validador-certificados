@@ -260,5 +260,17 @@
         "inicio": "15/09/2026",
         "fin": "26/09/2026",
         "emision": "18/12/2025"
+    },
+    "d37cb8f4488ca6096fd58fb923e243a7fdcfc2e3d5a52533a53d0d5221296a5647fdbbcbaf3020a8f01df5c19e0762dd7b97945154133f92316d0254ced4b319": {
+        "nombre": "López Balcázar Ander Humberto",
+        "cedula": "2300626930",
+        "correo": "anderlopezyt32@gmail.com",
+        "celular": "980045232",
+        "curso": "Precálculo",
+        "aprobacion": "Aprobado",
+        "horas": "35",
+        "inicio": "15/09/2026",
+        "fin": "26/09/2026",
+        "emision": "18/12/2025"
     }
 }
