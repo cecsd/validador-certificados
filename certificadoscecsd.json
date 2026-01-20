@@ -284,5 +284,101 @@
         "inicio": "15/09/2025",
         "fin": "26/09/2025",
         "emision": "19/01/2026"
+    },
+    "36ca51a8a726907971a559053ce561815f1b9ea944fbe975a19507fda904ed441a88f7942d8d53b6c5f7deb92b02d1fcba6ec195d1d757ae497f28b2e5c75d5a": {
+        "nombre": "Ing. Nelson Efraín Valdiviezo Andino",
+        "cedula": "1718967720",
+        "correo": "nevaldiviezo@espe.edu.ec",
+        "celular": "0990385473",
+        "curso": "Prec\\'alculo",
+        "aprobacion": "Instructor",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "1ab87d6329d7abbeee84adb3a5c7698c37926f5fac93f71706874978c08b374406b45af137e0400b1395cecf57784b1bc313d1b86f2b9b3d63f4c757b6c5fda7": {
+        "nombre": " Ing. Víctor Hugo Narváez Vega. Mgtr",
+        "cedula": "1711886877",
+        "correo": "vvnarvaez2@espe.edu.ec",
+        "celular": "0962390733",
+        "curso": "Precálculo",
+        "aprobacion": "Instructor",
+        "horas": "70",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "c5a0094d1738d4437dcd18fdff1a66f7cac1bf6fd3e6fb412a3f7e8101701e201c357bcf60e90726f2a9fe9bfbc934213625f5e0fe0a4363c75eb2473100c0b5": {
+        "nombre": "Ing. Nelson Fernando Vinueza Escobar. Mgtr",
+        "cedula": "1710906171",
+        "correo": "nfvinueza@espe.edu.ec",
+        "celular": "0998208212",
+        "curso": "Cálculo",
+        "aprobacion": "Instructor",
+        "horas": "70",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "8de49db3aa9d7dffc15083dbbcf769be83660f59cb5ebd3cef1ac58f3af0e7f9a4b3c1d9d3d4e5bd91d07a8f38dbbe75deae03399061b611c2136329015f827c": {
+        "nombre": "Fís. \\'Oscar Fernando Bustos Ganchozo. Mgtr",
+        "cedula": "1205741455",
+        "correo": "ofbustos@espe.edu.ec",
+        "celular": "098 1056270",
+        "curso": "Cálculo",
+        "aprobacion": "Instructor",
+        "horas": "70",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "3640f29b3aa0f22347a8dce02acf2587875ee49072ac0ae122fdb4ca7b03c27f73a53402d85eebf9c74e0d578991c8dd8b97711eed4d0a40ab5af1abe7c95f7c": {
+        "nombre": "Ing. Rodrigo Vladimir Bastidas Chalán. Mgtr",
+        "cedula": "1720658382",
+        "correo": "rvbastidas@espe.edu.ec",
+        "celular": "0988213815",
+        "curso": "Cálculo",
+        "aprobacion": "Instructor",
+        "horas": "70",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "603fe8dfa52b84ed6cf8d6e085665ab0a2e308d7acda1efc277931e3b21d7829a9b7125ef81f63937d0c90fae0111ab0a95489d24b47d23e2feaa33ea56cf327": {
+        "nombre": "Lcdo. Mayckel Sebastián Calero Silva. Mgtr",
+        "cedula": "1721851960",
+        "correo": "mscalero1@espe.edu.ec",
+        "celular": "0984605334",
+        "curso": "Química",
+        "aprobacion": "Instructor",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "00c169598c97a94b600dda3ed083497b03210dd342e6a2d4acbf87d7db6b1f931275a4d048fa7b7e17a38a419a1f97a426f2c7d185148576049c76364ae3011f": {
+        "nombre": "Lcdo. Darwin Francisco Suasnavas Flores. Mgtr",
+        "cedula": "1714576848",
+        "correo": "dfsuasnavas@espe.edu.ec",
+        "celular": "0999762408",
+        "curso": "Química",
+        "aprobacion": "Instructor",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
+    },
+    "b8d5dc11795b656851f968b82896d73589645719e571424a9f4ccc56a545d0142f39f5445457f3b3f45f43fc83b7b2f38cd7f7cc66341ef0278309b8694173d9": {
+        "nombre": "Qca. Adriana Vanessa Aguilar Miranda",
+        "cedula": "1722063680",
+        "correo": "avaguilar1@espe.edu.ec",
+        "celular": "0969060244",
+        "curso": "Química",
+        "aprobacion": "Instructor",
+        "horas": "35",
+        "inicio": "15/09/2025",
+        "fin": "26/09/2025",
+        "emision": "19/01/2026"
     }
 }
